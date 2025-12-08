@@ -1,0 +1,72 @@
+/* PAGE BACKGROUND */
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    background: #eef2f3;
+    margin: 0;
+    padding: 0;
+}
+
+/* CV CONTAINER */
+.container {
+    max-width: 750px;
+    background: #fff;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 9px rgba(0,0,0,0.2);
+}
+
+/* HEADERS */
+h1, h2 {
+    color: #004d7a;
+    font-weight: 600;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+h2 {
+    margin-top: 30px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+}
+
+/* LISTS */
+ul {
+    padding-left: 20px;
+    line-height: 1.7;
+}
+ul li {
+    margin-bottom: 5px;
+}
+
+/* LINKS */
+a {
+    color: #0056b3;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+/* RESUME BUTTON */
+.download-btn {
+    display: inline-block;
+    background: #0078c9;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+.download-btn:hover {
+    background: #005999;
+}
+
+/* INFO SECTION */
+.info {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.info p {
+    margin: 3px;
+}
