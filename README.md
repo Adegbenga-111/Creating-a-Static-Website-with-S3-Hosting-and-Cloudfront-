@@ -30,5 +30,16 @@ Creating The a simple website file in html and CSS for styling of the web page .
    
 The image above Shows the name of the S3 bucket, at this point the remaining seting of the S3 bucket is is left on defualt.
 
+### Step 3 : 
+ Uploading the static web site file into the S3 bucket. 
+ ![Alt AWS](https://github.com/Adegbenga-111/Creating-a-Static-Website-with-S3-Hosting-and-Cloudfront-/blob/main/Screenshot%20(42).png)
+    Image 5 : Before uploading the files.
+    
+![Alt AWS](https://github.com/Adegbenga-111/Creating-a-Static-Website-with-S3-Hosting-and-Cloudfront-/blob/main/Screenshot%20(44).png)
+   Image 6 : After uploading the files into the S3 bucket.
+
+
+
+    
 
  
