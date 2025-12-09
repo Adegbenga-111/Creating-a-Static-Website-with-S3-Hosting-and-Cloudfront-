@@ -23,3 +23,12 @@ Creating The a simple website file in html and CSS for styling of the web page .
      
   The static site is a simple single page of my cv showing the some differnt skill i have , the Index.html file contain's the codes for the structure for the site and the css file contain's the code for styling. 
 
+### Step 2 :
+ Creating the S3 bucket as shown in the image below ;
+ ![Alt AWS](https://github.com/Adegbenga-111/Creating-a-Static-Website-with-S3-Hosting-and-Cloudfront-/blob/main/Screenshot%20(40).png)
+   Image 4 : The UI page on AWS for creating S3 bucket.
+   
+The image above Shows the name of the S3 bucket, at this point the remaining seting of the S3 bucket is is left on defualt.
+
+
+ 
