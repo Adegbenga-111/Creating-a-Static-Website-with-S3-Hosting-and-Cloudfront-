@@ -13,7 +13,9 @@ Image 1 : Architecture Diagram .
 ## Skills Learned
 -Cloud storage hosting
 
--CDN, security
+-CDN
+
+-security
 
 -global distribution
 
