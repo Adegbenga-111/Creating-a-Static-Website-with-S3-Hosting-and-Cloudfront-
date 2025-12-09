@@ -51,9 +51,17 @@ To set up of OAC for the CND distribution , i went to Origin --> Edit Origin , a
     ![Alt AWS](https://github.com/Adegbenga-111/Creating-a-Static-Website-with-S3-Hosting-and-Cloudfront-/blob/main/Screenshot%20(48).png)
    Image 9 .
 
-  
+  ### Step 5 :
+  Updating the bucket policy to allow access from the cloudfront. To do this , i want to the S3 Permission page and paste  the policy that i copied from the Origin page.
 
+   ![Alt AWS](https://github.com/Adegbenga-111/Creating-a-Static-Website-with-S3-Hosting-and-Cloudfront-/blob/main/Screenshot%20(50).png)
+   Image 10 .
+The Image above shows the new policy of the bucket .
 
-    
+### Step 6 : Testing 
 
- 
+I send an Https request to the Infrastructure. 
+
+  ![Alt AWS](https://github.com/Adegbenga-111/Creating-a-Static-Website-with-S3-Hosting-and-Cloudfront-/blob/main/Screenshot%20(53).png)
+   Image 11 .
+ The image above show that every thing is working. 
