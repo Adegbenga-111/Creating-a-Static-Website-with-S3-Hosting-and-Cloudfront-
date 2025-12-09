@@ -6,3 +6,20 @@ The objective of this project is to strengthen already known theory on CLOUD BLO
 ## Architecture Diagram 
 This diagram give an overview of how these different component ( users , the S3 storage bucket and Cloudfront(CDN) ) come together to host a static site .
 ![Alt asw](https://github.com/Adegbenga-111/Creating-a-Static-Website-with-S3-Hosting-and-Cloudfront-/blob/main/Static%20S3%20site.png)
+
+
+Image 1 : Architecture Diagram .
+## Steps To Build 
+The following are the steps and procedure taken to configure and set up the defferent component to make this project possible . 
+
+### Step 1 : 
+Creating The a simple website file in html and CSS for styling of the web page . The images below shows the contain of the html and CSS in VS code. 
+  ![Alt VS code](https://github.com/Adegbenga-111/Creating-a-Static-Website-with-S3-Hosting-and-Cloudfront-/blob/main/Screenshot%20(55).png)
+
+  Image 2 : The contain of the Index.html file.
+               
+  ![Alt VS code](https://github.com/Adegbenga-111/Creating-a-Static-Website-with-S3-Hosting-and-Cloudfront-/blob/main/Screenshot%20(56).png)
+     Image 3 : The contain of the styles.css file.
+     
+  The static site is a simple single page of my cv showing the some differnt skill i have , the Index.html file contain's the codes for the structure for the site and the css file contain's the code for styling. 
+
