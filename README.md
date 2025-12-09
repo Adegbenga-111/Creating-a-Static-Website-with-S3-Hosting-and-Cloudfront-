@@ -38,6 +38,20 @@ The image above Shows the name of the S3 bucket, at this point the remaining set
 ![Alt AWS](https://github.com/Adegbenga-111/Creating-a-Static-Website-with-S3-Hosting-and-Cloudfront-/blob/main/Screenshot%20(44).png)
    Image 6 : After uploading the files into the S3 bucket.
 
+### Step 4 :
+Creating the CND distribution with Origin Access Control (OAC)  for AWS S3, As shown in the Images below :
+
+  ![Alt AWS](https://github.com/Adegbenga-111/Creating-a-Static-Website-with-S3-Hosting-and-Cloudfront-/blob/main/Screenshot%20(41).png)
+   Image 7 .
+
+![Alt AWS](https://github.com/Adegbenga-111/Creating-a-Static-Website-with-S3-Hosting-and-Cloudfront-/blob/main/Screenshot%20(47).png)
+  Image 8 : This image shows the overview of the configuration done when creating the distribution. 
+  
+To set up of OAC for the CND distribution , i went to Origin --> Edit Origin , and then Create an OAC , as shown in the image below :
+    ![Alt AWS](https://github.com/Adegbenga-111/Creating-a-Static-Website-with-S3-Hosting-and-Cloudfront-/blob/main/Screenshot%20(48).png)
+   Image 9 .
+
+  
 
 
     
