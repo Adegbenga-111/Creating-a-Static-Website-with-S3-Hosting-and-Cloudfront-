@@ -9,6 +9,14 @@ This diagram give an overview of how these different component ( users , the S3 
 
 
 Image 1 : Architecture Diagram .
+
+## Skills Learned
+-Cloud storage hosting
+
+-CDN, security
+
+-global distribution
+
 ## Steps To Build 
 The following are the steps and procedure taken to configure and set up the defferent component to make this project possible . 
 
@@ -65,3 +73,6 @@ I send an Https request to the Infrastructure.
   ![Alt AWS](https://github.com/Adegbenga-111/Creating-a-Static-Website-with-S3-Hosting-and-Cloudfront-/blob/main/Screenshot%20(53).png)
    Image 11 .
  The image above show that every thing is working. 
+
+### Conclusion
+ This project demonstrates the process of deploying a secure and scalable static website using Amazon S3 and CloudFront. By leveraging CloudFront as a global CDN and restricting direct access to the S3 bucket, the solution ensures improved performance while maintaining strong security controls. This deployment reflects practical experience with AWS cloud infrastructure, content distribution networks (CDNs), and IAM access configuration. Future enhancements may include CI/CD automation for continuous deployment, support for multiple pages, and integration with AWS Lambda or API Gateway for dynamic features.
