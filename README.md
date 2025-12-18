@@ -85,6 +85,11 @@ The test confirmed that the website was accessible globally and functioning as e
 
 ---
 
+## Detailed Build Documentation
+Step-by-step implementation, configuration screenshots, and troubleshooting notes are documented in  
+➡️ [`steps.md`](./steps.md)
+
+
 ## Conclusion
 
 This project successfully demonstrates a secure and scalable approach to hosting static content on AWS using Amazon S3 and CloudFront. By integrating Origin Access Control, the solution enforces best practices by blocking public S3 access while leveraging CloudFront for performance and global distribution.
