@@ -87,7 +87,7 @@ The test confirmed that the website was accessible globally and functioning as e
 
 ## Detailed Build Documentation
 Step-by-step implementation, configuration screenshots, and troubleshooting notes are documented in  
-➡️ [`steps.md`](/steps .md)
+➡️ [`steps.md`](/steps.md)
 
 
 ## Conclusion
